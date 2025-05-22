@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 💻 **技能 / 技术栈**
 - 🦀 Rust / 🐹 Go / 🟨 JavaScript（还在学）
 - 🌱 正在努力学习前端框架（React）
-
-📚 **成长记录**
-- 🧠 算法不太强，但正在每天补题（别把自己也骗到了）
+- 🧠 算法很弱很弱很弱很弱很弱
 
 
 ---
